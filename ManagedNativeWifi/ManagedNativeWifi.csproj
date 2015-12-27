@@ -56,6 +56,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Win32\BaseMethod.cs" />
     <Compile Include="Win32\NativeMethod.cs" />
+    <Compile Include="Win32\NativeMethodExtra.cs" />
     <Compile Include="Win32\SafeClientHandle.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
